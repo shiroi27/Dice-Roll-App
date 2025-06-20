@@ -31,7 +31,7 @@ This fun little project lets you **roll two dice with a click** and enjoy random
 ## 🚀 How to Run
 
 1. **Clone this repository** or download the ZIP  
-2. Make sure you have Python installed (`3.11` or above recommended)
+2. Make sure you have Python installed 
 3. Open terminal or IDE and run:
 ```bash
 python Dice_roll.py
