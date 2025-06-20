@@ -27,11 +27,6 @@ This fun little project lets you **roll two dice with a click** and enjoy random
 
 ---
 
-## 📸 Screenshot
-![Dice Roll Preview](preview.png)
-
----
-
 ## 🚀 How to Run
 
 1. **Clone this repository** or download the ZIP  
@@ -52,10 +47,13 @@ It helped me:
 
 ⸻
 
-🔗 Connect with Me
-	•	📸 Instagram
-	•	🐦 Twitter
-	•	💼 LinkedIn
+🤝 Connect With Me
+
+I’m documenting my #100DaysOfCode journey with real-world Python projects.
+Let’s grow together — follow, connect, and code along!
+	• 🐍 [Instagram: @_shiroi_27_](https://instagram.com/_shiroi_27_)
+        • 💼 [GitHub: shiroi27](https://github.com/shiroi27)
+        • 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
 
 ⸻
 
