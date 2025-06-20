@@ -1,5 +1,9 @@
-<img src="preview.png" alt="Dice Roll App Preview" width="100%">
 
+## 📸 Preview
+![Dice Roll App Screenshot](https://github.com/user-attachments/assets/f9a6e5eb-5fe5-4881-b45a-823d49112916)
+
+
+---
 # 🎲 Dice Roll App — Python Tkinter 🎯  
 🚀 **Day 6 of my #100DaysOfCode challenge**
 
