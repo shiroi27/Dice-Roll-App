@@ -40,7 +40,7 @@ python Dice_roll.py
 🧠 What I Learned
 
 This was a super fun Day 6 mini project!
-It helped me:
+It helped me :
 	•	Practice using labels and fonts in Tkinter
 	•	Understand random.choice() logic
 	•	Enhance GUI layout and spacing with place()
