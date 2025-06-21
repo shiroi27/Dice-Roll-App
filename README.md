@@ -57,6 +57,12 @@ Let’s grow together — follow, connect, and code along!
 
 ⸻
 
+📜 License
+
+This project is open-source and free to use under the MIT License.
+
+⸻
+
 📌 Hashtags
 
 #Python #Tkinter #DiceGame #100DaysOfCode #PythonProjects #DiceRollApp
